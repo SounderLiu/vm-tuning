@@ -33,7 +33,8 @@ public class vmTuning {
 		boolean enableOutput = true;
 		boolean outputToFile = false;
         //test_merge
-        //test_merge\
+        //test_merge\//
+
 
 //		String inputFolder = IqrMc.class.getClassLoader().getResource("workload/planetlab").getPath();
 //		String outputFolder = "output";

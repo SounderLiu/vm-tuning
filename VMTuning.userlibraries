@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="sources" />
+  <library name="jars" />
+  <library name="commons-math3-3">
+    <archive path="D:/API/commons-math3-3.2/commons-math3-3.2.jar" />
+    <archive path="D:/API/commons-math3-3.2/commons-math3-3.2-tests.jar" />
+    <archive path="D:/API/commons-math3-3.2/commons-math3-3.2-javadoc.jar" />
+    <archive path="D:/API/commons-math3-3.2/commons-math3-3.2-sources.jar" />
+    <archive path="D:/API/commons-math3-3.2/commons-math3-3.2-test-sources.jar" />
+  </library>
+</eclipse-userlibraries>
+

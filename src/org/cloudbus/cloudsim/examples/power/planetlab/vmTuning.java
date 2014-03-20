@@ -32,6 +32,7 @@ public class vmTuning {
 	public static void main(String[] args) throws IOException {
 		boolean enableOutput = true;
 		boolean outputToFile = false;
+        //test1
         //test
 //		String inputFolder = IqrMc.class.getClassLoader().getResource("workload/planetlab").getPath();
 //		String outputFolder = "output";

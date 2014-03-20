@@ -32,6 +32,7 @@ public class vmTuning {
 	public static void main(String[] args) throws IOException {
 		boolean enableOutput = true;
 		boolean outputToFile = false;
+        //test
 //		String inputFolder = IqrMc.class.getClassLoader().getResource("workload/planetlab").getPath();
 //		String outputFolder = "output";
 //        String inputFolder = "D:/Developer/cloudsim-3.0.3/cloudsim-3.0.3/examples/workload/planetlab";

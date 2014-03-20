@@ -5,4 +5,4 @@ local tuning
 
 global tuning
 
-migtation
+migration

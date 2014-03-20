@@ -34,9 +34,12 @@ public class vmTuning {
 		boolean outputToFile = false;
 //		String inputFolder = IqrMc.class.getClassLoader().getResource("workload/planetlab").getPath();
 //		String outputFolder = "output";
-        String inputFolder = "D:/Developer/cloudsim-3.0.3/cloudsim-3.0.3/examples/workload/planetlab";
-        String outputFolder = "D:/Developer/output";
-		String workload = "20110303"; // PlanetLab workload
+//        String inputFolder = "D:/Developer/cloudsim-3.0.3/cloudsim-3.0.3/examples/workload/planetlab";
+//        String outputFolder = "D:/Developer/output";
+//		String workload = "20110303"; // PlanetLab workload
+        String inputFolder = "";
+        String outputFolder = "";
+        String workload = ""; // PlanetLab workload
 		String vmAllocationPolicy = "lg"; // Inter Quartile Range (IQR) VM allocation policy
 		String vmSelectionPolicy = "mc"; // Maximum Correlation (MC) VM selection policy
 		String parameter = "1.5"; // the safety parameter of the IQR policy
